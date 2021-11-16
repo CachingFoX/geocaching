@@ -1,15 +1,18 @@
 ## Origin Type
-| Value | Description |
-|-------|-------------|
-| 0     |             |
-| 1     |             |
-| 2     | Country     |
-| 3     |             |
-| 4     | Global      |
+| Value | Description | Parameter c | Parameter r | Parameter g |
+|-------|-------------|-------------|-------------|-------------|
+| 0     |             | yes         | yes         |
+| 1     |             | yes         | yes         |
+| 2     | Country     | no          | no          |
+| 3     |             | yes         | yes         |
+| 4     | Global      | yes         | yes         |
 
 ## g
 
 ## Country c
-together with ot=1, ot=2, ot=4
+together with ot=0, ot=1, ot=3, ot=4
+  2->
 
 ## Region r
+together with  ot=2, ot=3, ot=4
+  2 -> error
