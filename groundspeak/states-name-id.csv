@@ -1,0 +1,466 @@
+State,Id
+Aargau,497
+Abruzzo,189
+Acre,162
+Agder,527
+Aguascalientes,454
+Aichi,312
+Akita,383
+Alabama,60
+Alagoas,163
+Alaska,2
+Alberta,63
+Amapá,164
+Amazonas,165
+Andalucía,116
+Antwerpen,87
+Aomori,313
+Appenzell Ausserrhoden,498
+Appenzell Innerrhoden,499
+Aragón,119
+Arizona,3
+Arkansas,4
+Arquipélago da Madeira,113
+Arquipélago dos Açores,114
+Australian Capital Territory,59
+Auvergne-Rhône-Alpes,493
+Aveiro,95
+Bács-Kiskun,434
+Baden-Württemberg,135
+Bahia,166
+Baja California,455
+Baja California Sur,456
+Banskobystrický kraj,287
+Baranya,435
+Basel Landschaft,500
+Basel Stadt,501
+Basilicata,190
+Bayern,136
+Beja,96
+Békés,436
+Berlin,137
+Bern,502
+Blekinge,359
+Bonaire,523
+Borsod-Abaúj-Zemplén,437
+Bourgogne-Franche-Comté,488
+Brabant wallon,91
+Braga,97
+Bragança,98
+Brandenburg,138
+Bratislavský kraj,288
+Bremen,139
+Bretagne,416
+British Columbia,64
+Brussels,93
+Budapest,438
+Burgenland,258
+Busan,297
+Calabria,192
+California,5
+Campania,193
+Campeche,457
+Cantabria,130
+Castelo Branco,99
+Castilla y León,115
+Castilla-La Mancha,117
+Cataluña,121
+Ceará,167
+Centre-Val-de-Loire,417
+Ceuta,133
+Chatham Islands,486
+Chiapas,458
+Chiba,314
+Chihuahua,459
+Chungcheong buk do,305
+Chungcheong nam do,306
+Coahuila,460
+Coimbra,100
+Colima,461
+Colorado,6
+Comunidad de Madrid,127
+Comunidad Foral de Navarra,126
+Comunidad Valenciana,123
+Connacht,227
+Connecticut,7
+Corse,419
+Csongrád,439
+Daegu,298
+Daejeon,301
+Dalarna,360
+Delaware,9
+District of Columbia,8
+Distrito Federal,168
+Distrito Federal,462
+Dolnośląskie,396
+Drenthe,385
+Dublin,226
+Durango,463
+East Midlands,215
+Eastern Cape,153
+Eastern England,219
+Ehime,315
+Emilia–Romagna ,194
+Espírito Santo,169
+Évora,101
+Extremadura,120
+Faro,102
+Fejér,440
+Flevoland,395
+Florida,10
+Free State,160
+Fribourg,503
+Friesland,394
+Friuli–Venezia Giulia,195
+Fukui,316
+Fukuoka,317
+Fukushima,318
+Galicia,122
+Gangwondo,304
+Gauteng,159
+Gävleborg,362
+Gelderland,387
+Genève,504
+Georgia,11
+Gifu,319
+Glarus,505
+Goiás,170
+Gotland,361
+Grand-Est,489
+Graubünden,506
+Groningen,384
+Guanajuato,464
+Guarda,103
+Guerrero,465
+Gunma,320
+Gwangju,300
+Gyeonggido,303
+Gyeongsang buk do,309
+Gyeongsang nam do,310
+Gyor-Moson-Sopron,441
+Hainaut,88
+Hajdú-Bihar,442
+Halland,363
+Hamburg,140
+Hauts-de-France,492
+Hawaii,12
+Hessen,150
+Heves,443
+Hidalgo,466
+Hiroshima,321
+Hlavní město Praha,286
+Hokkaido,322
+Hyogo,323
+Ibaraki,324
+Idaho,13
+Île-de-France,422
+Illinois,14
+Incheon,299
+Indiana,15
+Innlandet,529
+Iowa,16
+Ishikawa,325
+Islas Baleares,132
+Islas Canarias,128
+Iwate,326
+Jalisco,467
+Jämtland,364
+Jász-Nagykun-Szolnok,444
+Jejudo,311
+Jeolla buk do,307
+Jeolla nam do,308
+Jihočeský kraj,274
+Jihomoravský kraj,273
+Jönköping,365
+Jura,507
+Kagawa,327
+Kagoshima,328
+Kalmar,366
+Kanagawa,329
+Kansas,17
+Karlovarský kraj,276
+Kärnten,259
+Kentucky,18
+Kochi,330
+Komárom-Esztergom,445
+Košický kraj,289
+Kraj Vysočina,284
+Královéhradecký kraj,275
+Kronoberg,367
+Kujawsko-Pomorskie,397
+Kumamoto,331
+Kwazulu Natal,157
+Kyoto,332
+La Rioja,131
+Lazio,196
+Leinster,228
+Leiria,104
+Liberecký kraj,277
+Liège,80
+Liguria,197
+Limburg,89
+Limburg,393
+Limpopo,158
+Lisboa,105
+Łódzkie,400
+Lombardia,198
+London,220
+Louisiana,19
+Lubelskie,398
+Lubuskie,399
+Luxembourg,90
+Luzern,508
+Maine,20
+Małopolskie,401
+Manitoba,65
+Maranhão,171
+Marche,199
+Maryland,21
+Massachusetts,22
+Mato Grosso,172
+Mato Grosso do Sul,173
+Mazowieckie,402
+Mecklenburg-Vorpommern,141
+Melilla,134
+México,468
+Michigan,23
+Michoacán,469
+Mie,333
+Minas Gerais,174
+Minnesota,24
+Mississippi,25
+Missouri,26
+Miyagi,334
+Miyazaki,335
+Molise,200
+Montana,27
+Moravskoslezský kraj,279
+Møre og Romsdal,252
+Morelos,470
+Mpumalanga,155
+Munster,225
+Nagano,336
+Nagasaki,337
+Namur,81
+Nara,338
+Nayarit,471
+Nebraska,28
+Neuchâtel,509
+Nevada,29
+New Brunswick,66
+New Hampshire,30
+New Jersey,31
+New Mexico,32
+New South Wales,52
+New York,33
+Newfoundland and Labrador,67
+Nidwalden,510
+Niederösterreich,260
+Niedersachsen,142
+Niigata,339
+Nitriansky kraj,290
+Nógrád,446
+Noord-Brabant,392
+Noord-Holland,389
+Nordland,255
+Nordrhein-Westfalen,143
+Normandie,487
+Norrbotten,368
+North Carolina,34
+North Dakota,35
+North East England,212
+North Island,82
+North Wales,217
+North West,156
+North West England,213
+Northern Cape,154
+Northern Scotland,210
+Northern Territory,58
+Northwest Territories,72
+Nouvelle-Aquitaine,491
+Nova Scotia,68
+Nuevo León,472
+Nunavut,73
+Oaxaca,473
+Oberösterreich,261
+Obwalden,511
+Occitanie,490
+Ohio,36
+Oita,340
+Okayama,341
+Okinawa,342
+Oklahoma,37
+Olomoucký kraj,278
+Ontario,69
+Oost-Vlaanderen,76
+Opolskie,403
+Örebro,378
+Oregon,38
+Osaka,343
+Oslo,241
+Östergötland,379
+Overijssel,386
+País Vasco,129
+Pará,175
+Paraíba,176
+Paraná,177
+Pardubický kraj,280
+Pays de la Loire,428
+Pennsylvania,39
+Pernambuco,178
+Pest,447
+Piauí,179
+Piemonte,201
+Plzeňský kraj,281
+Podkarpackie,404
+Podlaskie,405
+Pomorskie,406
+Portalegre,106
+Porto,107
+Prešovský kraj,291
+Prince Edward Island,70
+Principado de Asturias,125
+Provence-Alpes-Côte d'Azur,431
+Puebla,474
+Puglia,202
+Québec,62
+Queensland,54
+Querétaro,475
+Quintana Roo,476
+Región de Murcia,124
+Rheinland-Pfalz,144
+Rhode Island,40
+Rio de Janeiro,180
+Rio Grande do Norte,181
+Rio Grande do Sul,182
+Rogaland,249
+Rondônia,183
+Roraima,184
+Saarland,145
+Saba,525
+Sachsen,146
+Sachsen-Anhalt,147
+Saga,344
+Saitama,345
+Salzburg,262
+San Luis Potosí,477
+Santa Catarina,185
+Santarém,108
+São Paulo,186
+Sardegna,203
+Saskatchewan,71
+Schaffhausen,512
+Schleswig-Holstein,148
+Schwyz,513
+Sejong,495
+Seoul,296
+Sergipe,187
+Setúbal,109
+Shiga,346
+Shimane,347
+Shizuoka,348
+Sicilia,204
+Sinaloa,478
+Sint Eustatius,524
+Skåne,369
+Śląskie,407
+Södermanland,371
+Solothurn,514
+Somogy,448
+Sonora,479
+South Australia,55
+South Carolina,41
+South Dakota,42
+South East England,223
+South Island,86
+South Wales,218
+South West England,222
+Southern England,221
+Southern Scotland,211
+St. Gallen,515
+Steiermark,263
+Stockholm,370
+Středočeský kraj,282
+Świętokrzyskie,408
+Szabolcs-Szatmár-Bereg,449
+Tabasco,480
+Tamaulipas,481
+Tasmania,57
+Tennessee,43
+Texas,44
+Thurgau,516
+Thüringen,149
+Ticino,517
+Tirol,264
+Tlaxcala,482
+Tocantins,188
+Tochigi,349
+Tokushima,350
+Tokyo,351
+Tolna,450
+Toscana,205
+Tottori,352
+Toyama,353
+Trenčiansky kraj,292
+Trentino–Alto Adige,206
+Trnavský kraj,293
+Troms og Finnmark,531
+Trøndelag,494
+Ulsan,302
+Ulster,224
+Umbria,207
+Uppsala,372
+Uri,518
+Ústecký kraj,283
+Utah,45
+Utrecht,388
+Valais,519
+Valle d'Aosta,208
+Värmland,373
+Vas,451
+Västerbotten,374
+Västernorrland,375
+Västmanland,376
+Västra Götaland,377
+Vaud,520
+Veneto,209
+Veracruz,483
+Vermont,46
+Vestfold og Telemark,528
+Vestland,526
+Veszprém,452
+Viana do Castelo,110
+Victoria,53
+Viken,530
+Vila Real,112
+Virginia,47
+Viseu,111
+Vlaams-Brabant,78
+Vorarlberg,265
+Wakayama,354
+Warmińsko-Mazurskie,409
+Washington,48
+West Midlands,216
+West Virginia,49
+Western Australia,56
+Western Cape,152
+West-Vlaanderen,92
+Wielkopolskie,410
+Wien,295
+Wisconsin,50
+Wyoming,51
+Yamagata,355
+Yamaguchi,356
+Yamanashi,357
+Yorkshire,214
+Yucatán,484
+Yukon Territory,74
+Zacatecas,485
+Zachodniopomorskie,411
+Zala,453
+Zeeland,391
+Žilinský kraj,294
+Zlínský kraj,285
+Zug,521
+Zuid-Holland,390
+Zürich,522
