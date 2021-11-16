@@ -1,0 +1,466 @@
+Id,State
+2,Alaska
+3,Arizona
+4,Arkansas
+5,California
+6,Colorado
+7,Connecticut
+8,District of Columbia
+9,Delaware
+10,Florida
+11,Georgia
+12,Hawaii
+13,Idaho
+14,Illinois
+15,Indiana
+16,Iowa
+17,Kansas
+18,Kentucky
+19,Louisiana
+20,Maine
+21,Maryland
+22,Massachusetts
+23,Michigan
+24,Minnesota
+25,Mississippi
+26,Missouri
+27,Montana
+28,Nebraska
+29,Nevada
+30,New Hampshire
+31,New Jersey
+32,New Mexico
+33,New York
+34,North Carolina
+35,North Dakota
+36,Ohio
+37,Oklahoma
+38,Oregon
+39,Pennsylvania
+40,Rhode Island
+41,South Carolina
+42,South Dakota
+43,Tennessee
+44,Texas
+45,Utah
+46,Vermont
+47,Virginia
+48,Washington
+49,West Virginia
+50,Wisconsin
+51,Wyoming
+52,New South Wales
+53,Victoria
+54,Queensland
+55,South Australia
+56,Western Australia
+57,Tasmania
+58,Northern Territory
+59,Australian Capital Territory
+60,Alabama
+62,Québec
+63,Alberta
+64,British Columbia
+65,Manitoba
+66,New Brunswick
+67,Newfoundland and Labrador
+68,Nova Scotia
+69,Ontario
+70,Prince Edward Island
+71,Saskatchewan
+72,Northwest Territories
+73,Nunavut
+74,Yukon Territory
+76,Oost-Vlaanderen
+78,Vlaams-Brabant
+80,Liège
+81,Namur
+82,North Island
+86,South Island
+87,Antwerpen
+88,Hainaut
+89,Limburg
+90,Luxembourg
+91,Brabant wallon
+92,West-Vlaanderen
+93,Brussels
+95,Aveiro
+96,Beja
+97,Braga
+98,Bragança
+99,Castelo Branco
+100,Coimbra
+101,Évora
+102,Faro
+103,Guarda
+104,Leiria
+105,Lisboa
+106,Portalegre
+107,Porto
+108,Santarém
+109,Setúbal
+110,Viana do Castelo
+111,Viseu
+112,Vila Real
+113,Arquipélago da Madeira
+114,Arquipélago dos Açores
+115,Castilla y León
+116,Andalucía
+117,Castilla-La Mancha
+119,Aragón
+120,Extremadura
+121,Cataluña
+122,Galicia
+123,Comunidad Valenciana
+124,Región de Murcia
+125,Principado de Asturias
+126,Comunidad Foral de Navarra
+127,Comunidad de Madrid
+128,Islas Canarias
+129,País Vasco
+130,Cantabria
+131,La Rioja
+132,Islas Baleares
+133,Ceuta
+134,Melilla
+135,Baden-Württemberg
+136,Bayern
+137,Berlin
+138,Brandenburg
+139,Bremen
+140,Hamburg
+141,Mecklenburg-Vorpommern
+142,Niedersachsen
+143,Nordrhein-Westfalen
+144,Rheinland-Pfalz
+145,Saarland
+146,Sachsen
+147,Sachsen-Anhalt
+148,Schleswig-Holstein
+149,Thüringen
+150,Hessen
+152,Western Cape
+153,Eastern Cape
+154,Northern Cape
+155,Mpumalanga
+156,North West
+157,Kwazulu Natal
+158,Limpopo
+159,Gauteng
+160,Free State
+162,Acre
+163,Alagoas
+164,Amapá
+165,Amazonas
+166,Bahia
+167,Ceará
+168,Distrito Federal
+169,Espírito Santo
+170,Goiás
+171,Maranhão
+172,Mato Grosso
+173,Mato Grosso do Sul
+174,Minas Gerais
+175,Pará
+176,Paraíba
+177,Paraná
+178,Pernambuco
+179,Piauí
+180,Rio de Janeiro
+181,Rio Grande do Norte
+182,Rio Grande do Sul
+183,Rondônia
+184,Roraima
+185,Santa Catarina
+186,São Paulo
+187,Sergipe
+188,Tocantins
+189,Abruzzo
+190,Basilicata
+192,Calabria
+193,Campania
+194,Emilia–Romagna 
+195,Friuli–Venezia Giulia
+196,Lazio
+197,Liguria
+198,Lombardia
+199,Marche
+200,Molise
+201,Piemonte
+202,Puglia
+203,Sardegna
+204,Sicilia
+205,Toscana
+206,Trentino–Alto Adige
+207,Umbria
+208,Valle d'Aosta
+209,Veneto
+210,Northern Scotland
+211,Southern Scotland
+212,North East England
+213,North West England
+214,Yorkshire
+215,East Midlands
+216,West Midlands
+217,North Wales
+218,South Wales
+219,Eastern England
+220,London
+221,Southern England
+222,South West England
+223,South East England
+224,Ulster
+225,Munster
+226,Dublin
+227,Connacht
+228,Leinster
+241,Oslo
+249,Rogaland
+252,Møre og Romsdal
+255,Nordland
+258,Burgenland
+259,Kärnten
+260,Niederösterreich
+261,Oberösterreich
+262,Salzburg
+263,Steiermark
+264,Tirol
+265,Vorarlberg
+273,Jihomoravský kraj
+274,Jihočeský kraj
+275,Královéhradecký kraj
+276,Karlovarský kraj
+277,Liberecký kraj
+278,Olomoucký kraj
+279,Moravskoslezský kraj
+280,Pardubický kraj
+281,Plzeňský kraj
+282,Středočeský kraj
+283,Ústecký kraj
+284,Kraj Vysočina
+285,Zlínský kraj
+286,Hlavní město Praha
+287,Banskobystrický kraj
+288,Bratislavský kraj
+289,Košický kraj
+290,Nitriansky kraj
+291,Prešovský kraj
+292,Trenčiansky kraj
+293,Trnavský kraj
+294,Žilinský kraj
+295,Wien
+296,Seoul
+297,Busan
+298,Daegu
+299,Incheon
+300,Gwangju
+301,Daejeon
+302,Ulsan
+303,Gyeonggido
+304,Gangwondo
+305,Chungcheong buk do
+306,Chungcheong nam do
+307,Jeolla buk do
+308,Jeolla nam do
+309,Gyeongsang buk do
+310,Gyeongsang nam do
+311,Jejudo
+312,Aichi
+313,Aomori
+314,Chiba
+315,Ehime
+316,Fukui
+317,Fukuoka
+318,Fukushima
+319,Gifu
+320,Gunma
+321,Hiroshima
+322,Hokkaido
+323,Hyogo
+324,Ibaraki
+325,Ishikawa
+326,Iwate
+327,Kagawa
+328,Kagoshima
+329,Kanagawa
+330,Kochi
+331,Kumamoto
+332,Kyoto
+333,Mie
+334,Miyagi
+335,Miyazaki
+336,Nagano
+337,Nagasaki
+338,Nara
+339,Niigata
+340,Oita
+341,Okayama
+342,Okinawa
+343,Osaka
+344,Saga
+345,Saitama
+346,Shiga
+347,Shimane
+348,Shizuoka
+349,Tochigi
+350,Tokushima
+351,Tokyo
+352,Tottori
+353,Toyama
+354,Wakayama
+355,Yamagata
+356,Yamaguchi
+357,Yamanashi
+359,Blekinge
+360,Dalarna
+361,Gotland
+362,Gävleborg
+363,Halland
+364,Jämtland
+365,Jönköping
+366,Kalmar
+367,Kronoberg
+368,Norrbotten
+369,Skåne
+370,Stockholm
+371,Södermanland
+372,Uppsala
+373,Värmland
+374,Västerbotten
+375,Västernorrland
+376,Västmanland
+377,Västra Götaland
+378,Örebro
+379,Östergötland
+383,Akita
+384,Groningen
+385,Drenthe
+386,Overijssel
+387,Gelderland
+388,Utrecht
+389,Noord-Holland
+390,Zuid-Holland
+391,Zeeland
+392,Noord-Brabant
+393,Limburg
+394,Friesland
+395,Flevoland
+396,Dolnośląskie
+397,Kujawsko-Pomorskie
+398,Lubelskie
+399,Lubuskie
+400,Łódzkie
+401,Małopolskie
+402,Mazowieckie
+403,Opolskie
+404,Podkarpackie
+405,Podlaskie
+406,Pomorskie
+407,Śląskie
+408,Świętokrzyskie
+409,Warmińsko-Mazurskie
+410,Wielkopolskie
+411,Zachodniopomorskie
+416,Bretagne
+417,Centre-Val-de-Loire
+419,Corse
+422,Île-de-France
+428,Pays de la Loire
+431,Provence-Alpes-Côte d'Azur
+434,Bács-Kiskun
+435,Baranya
+436,Békés
+437,Borsod-Abaúj-Zemplén
+438,Budapest
+439,Csongrád
+440,Fejér
+441,Gyor-Moson-Sopron
+442,Hajdú-Bihar
+443,Heves
+444,Jász-Nagykun-Szolnok
+445,Komárom-Esztergom
+446,Nógrád
+447,Pest
+448,Somogy
+449,Szabolcs-Szatmár-Bereg
+450,Tolna
+451,Vas
+452,Veszprém
+453,Zala
+454,Aguascalientes
+455,Baja California
+456,Baja California Sur
+457,Campeche
+458,Chiapas
+459,Chihuahua
+460,Coahuila
+461,Colima
+462,Distrito Federal
+463,Durango
+464,Guanajuato
+465,Guerrero
+466,Hidalgo
+467,Jalisco
+468,México
+469,Michoacán
+470,Morelos
+471,Nayarit
+472,Nuevo León
+473,Oaxaca
+474,Puebla
+475,Querétaro
+476,Quintana Roo
+477,San Luis Potosí
+478,Sinaloa
+479,Sonora
+480,Tabasco
+481,Tamaulipas
+482,Tlaxcala
+483,Veracruz
+484,Yucatán
+485,Zacatecas
+486,Chatham Islands
+487,Normandie
+488,Bourgogne-Franche-Comté
+489,Grand-Est
+490,Occitanie
+491,Nouvelle-Aquitaine
+492,Hauts-de-France
+493,Auvergne-Rhône-Alpes
+494,Trøndelag
+495,Sejong
+497,Aargau
+498,Appenzell Ausserrhoden
+499,Appenzell Innerrhoden
+500,Basel Landschaft
+501,Basel Stadt
+502,Bern
+503,Fribourg
+504,Genève
+505,Glarus
+506,Graubünden
+507,Jura
+508,Luzern
+509,Neuchâtel
+510,Nidwalden
+511,Obwalden
+512,Schaffhausen
+513,Schwyz
+514,Solothurn
+515,St. Gallen
+516,Thurgau
+517,Ticino
+518,Uri
+519,Valais
+520,Vaud
+521,Zug
+522,Zürich
+523,Bonaire
+524,Sint Eustatius
+525,Saba
+526,Vestland
+527,Agder
+528,Vestfold og Telemark
+529,Innlandet
+530,Viken
+531,Troms og Finnmark
