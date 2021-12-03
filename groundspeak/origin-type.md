@@ -1,10 +1,11 @@
-## Origin Type
+## Origin Type (ot=)
+
 | Value | Description | Parameter c | Parameter r | Parameter g |
 |-------|-------------|-------------|-------------|-------------|
-| 0     |             | yes         | yes         |
-| 1     |             | yes         | yes         |
+| 0     | Coordinates | yes         | yes         |
+| 1     | Region      | yes         | yes         |
 | 2     | Country     | no          | no          |
-| 3     |             | yes         | yes         |
+| 3     | City        | yes         | yes         |
 | 4     | Global      | yes         | yes         |
 
 ## g
