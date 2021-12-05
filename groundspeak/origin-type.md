@@ -33,6 +33,23 @@ https://www.geocaching.com/play/search?ot=4&c=113 Libanon (Premium Members)
 https://www.geocaching.com/play/search?ot=4&g=113 => GLOBAL
 https://www.geocaching.com/play/search?ot=4&r=113 MAdeira (Premium Members)
 
+# ----------------------------
+
+# ot=1
+https://www.geocaching.com/play/search?radius=16km&origin=Bayern%2C+Germany&ot=1&g=136
+raidus ignored
+origin = text for the search field
+
+# ot=2
+https://www.geocaching.com/play/search?radius=16km&origin=Germany&ot=2&g=79
+raidus ignored
+origin = text for the search field
+
+# ot=3
+https://www.geocaching.com/play/search?lat=49.45421&lng=11.07752&origin=N%c3%bcrnberg,+Bavaria&ot=3&g=24957&utr=
+origin = text for the search field
+lat/lng coordinaten von g=<id> hat aber keine auswirkung auf die suchergebnisse
+ot=3 / g=<id>
 
 
 
