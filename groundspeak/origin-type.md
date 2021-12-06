@@ -35,6 +35,13 @@ https://www.geocaching.com/play/search?ot=4&r=113 MAdeira (Premium Members)
 
 # ----------------------------
 
+## ot=0
+https://www.geocaching.com/play/search?lat=49&lng=13&origin=N49.0000+E13.0000&g=-1&utr=false
+https://www.geocaching.com/play/search?ot=0&lat=49&lng=13&origin=N49.0000+E13.0000&g=-1&utr=false
+
+origin gibt die Koordinaten an
+lat/lon keinen einfluß
+
 # ot=1
 https://www.geocaching.com/play/search?radius=16km&origin=Bayern%2C+Germany&ot=1&g=136
 raidus ignored
