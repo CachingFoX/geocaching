@@ -18,6 +18,7 @@ Groundspeak only shows 1000 geocaches at a time.
 
 | Parameter        | Function           | Values  |
 | ------------- |-------------| -----|
+| a | Archive | Number/TriState | 0 includes archived
 | c | Country | |
 | cc | Corrected Coordinates | |
 | d | Difficulty |
@@ -36,10 +37,12 @@ Groundspeak only shows 1000 geocaches at a time.
 | ot | | 
 | owner | Hidden by | |
 | p | Membership Type | |
-| pe | Exclude past events | |
+| pe | Exclude past events | TriState |
 | r | region
-| radius | |
+| radius | | Number postfix km/mi
+| sc | | Boolean
 | sizes | Container sizes |
+| sort | |
 | t | Terrain | |
 | types | Caceh type |
 | 
